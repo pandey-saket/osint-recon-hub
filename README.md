@@ -63,6 +63,7 @@
 | SowSearch | https://www.sowsearch.info/ |
 | Snapchat Map | https://map.snapchat.com/ |
 | Snapchat Profile Lookup | https://www.snapchat.com/add/username |
+| SnapDataHub (Snapchat profile stats) | https://snapdatahub.com/ |
 | Telegram Nearby Map (GitHub) | https://github.com/tejado/telegram-nearby-map |
 | Apify YouTube Scraper | https://apify.com/streamers/youtube-scraper |
 
